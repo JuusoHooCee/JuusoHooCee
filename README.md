@@ -1,4 +1,4 @@
-# Hi, I'm Juuso 👋
+# Hi, I'm Juuso 
 
 ##  IT Student / IT Support / Future Infrastructure Specialist
 
@@ -11,7 +11,7 @@ I am currently building hands-on skills in:
 
 ---
 
-## 🔧 What I’m working on
+##  What I’m working on
 
 -  Building a home lab using Proxmox  
 -  Learning identity and access management (IAM)  
@@ -54,5 +54,5 @@ PowerShell project for building and deploying a custom screensaver in a Windows 
 
 ##  Status
 
-🚧 Always learning and improving
+ Always learning and improving
 
