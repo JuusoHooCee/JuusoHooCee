@@ -26,6 +26,11 @@ PowerShell project for building and deploying a custom screensaver in a Windows 
 
  https://github.com/JuusoHooCee/Company-Logo-Screensaver
 
+### Homelab 
+This is my main project at the moment
+
+ https://github.com/JuusoHooCee/Homelab
+
 ---
 
 ##  Currently learning
