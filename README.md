@@ -15,7 +15,7 @@ I am currently building hands-on skills in:
 
 -  Building a home lab using Proxmox  
 -  Learning identity and access management (IAM)  
-- ☁️ Exploring Microsoft 365 and Zero Trust concepts  
+-  Exploring Microsoft 365 and Zero Trust concepts  
 
 ---
 
